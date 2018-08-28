@@ -1,5 +1,4 @@
 # Pacman-AI-Berkeley-Project
-AI Techniques to play the famous game PacMan
 
 The whole project contains implementation of depth-first, breadth-first, uniform cost, and A* search algorithms. 
 These algorithms are used to solve navigation and traveling salesman problems in the Pacman world.
@@ -8,6 +7,6 @@ as well as designing evaluation functions.
 
 
 # Links to exercises overview:
-Project0: http://ai.berkeley.edu/tutorial.html
-Project1: http://ai.berkeley.edu/search.html
-Project2: http://ai.berkeley.edu/multiagent.html
+Project0: http://ai.berkeley.edu/tutorial.html 
+Project1: http://ai.berkeley.edu/search.html 
+Project2: http://ai.berkeley.edu/multiagent.html 
