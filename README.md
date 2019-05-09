@@ -6,7 +6,7 @@ Moreover, the game is modeled as both an adversarial and a stochastic search pro
 as well as designing evaluation functions.
 
 
-## Links to exercises overview:
+## Links to exercises overview
 * Project0: http://ai.berkeley.edu/tutorial.html \
 * Project1: http://ai.berkeley.edu/search.html \
 * Project2: http://ai.berkeley.edu/multiagent.html 
