@@ -1,4 +1,4 @@
-# pacman-AI-Berkeley-project
+# Berkeley-CS-188-AI-Pacman
 
 The whole project contains implementation of depth-first, breadth-first, uniform cost, and A* search algorithms. 
 These algorithms are used to solve navigation and traveling salesman problems in the Pacman world.
