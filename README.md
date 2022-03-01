@@ -7,7 +7,7 @@ as well as designing evaluation functions.
 
 
 ## Links to exercises overview:
-* Project0: http://ai.berkeley.edu/tutorial.html \
-* Project1: http://ai.berkeley.edu/search.html \
+* Project0: http://ai.berkeley.edu/tutorial.html 
+* Project1: http://ai.berkeley.edu/search.html 
 * Project2: http://ai.berkeley.edu/multiagent.html 
  
